@@ -197,6 +197,23 @@ a.hover-link::after {
   margin: auto;
 }
 
+.circle {
+    box-shadow: 3px 3px 20px 2px #ddd;
+    background: #4a4a4a;
+    width: 140px;
+    height: 140px;
+    margin: 30px auto;
+    border-radius: 50%;
+}
+
+.circle:hover {
+  box-shadow: 6px 6px 20px 2px #d2d2d2;
+  background: #5292AD;
+}
+.center {
+  margin: auto;
+}
+
 .break100 {
   height: 100px;
   width: auto;
