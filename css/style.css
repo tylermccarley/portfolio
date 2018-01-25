@@ -9,7 +9,7 @@ body, html {
 }
 
 h1 {
-  font-size: 44px;
+  font-size: 40px;
   font-weight: 400;
   color: #848484;
 }
@@ -168,6 +168,9 @@ a.hover-link::after {
   margin-bottom: 60px;
 }
 
+.big-wrapper {
+  margin: 0 45px;
+}
 
 .card-wrapper {
   margin: 10px 15px 10px 0;
@@ -216,6 +219,11 @@ a.hover-link::after {
 
 .break100 {
   height: 100px;
+  width: auto;
+}
+
+.break90 {
+  height: 90px;
   width: auto;
 }
 .break80 {
