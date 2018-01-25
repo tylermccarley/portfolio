@@ -29,7 +29,7 @@ p {
 
 .subhead {
   padding-top: 0;
-  padding-bottom: 3rem;
+  padding-bottom: 0;
 }
 .bg-container {
   padding: 0;
@@ -52,6 +52,10 @@ p {
     background-color: white;
 }
 
+.fixed-top {
+  position: relative;
+  background-color: white;
+}
 .fixed-bottom{
   background-color: white;
 }
@@ -90,6 +94,7 @@ a.hover-link::after {
 
 .active {
   color: #5292AD;
+  font-weight: 400;
 }
 
 .active a:hover {
@@ -165,7 +170,7 @@ a.hover-link::after {
 
 
 .card-wrapper {
-  margin: 60px 0;
+  margin: 10px 15px 10px 0;
   position: relative;
   top: 0;
   left: 0;
@@ -179,7 +184,7 @@ a.hover-link::after {
   height: 170px;
   width: 300px;
   max-width: 100%;
-  margin: 20px auto;
+  margin: 30px auto 0;
   float: none;
   text-align: center;
 }
@@ -190,6 +195,24 @@ a.hover-link::after {
 
 #logo {
   margin: auto;
+}
+
+.break100 {
+  height: 100px;
+  width: auto;
+}
+.break80 {
+  height: 80px;
+  width: auto;
+}
+.break60 {
+  height: 60px;
+  width: auto;
+}
+
+.break40 {
+  height: 20px;
+  width: auto;
 }
 /* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
 @media screen and (max-width: 600px) {
