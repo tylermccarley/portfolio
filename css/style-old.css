@@ -7,18 +7,18 @@ body, html {
 h1 {
   font-size: 40px;
   font-weight: 400;
-  color: #303030;
+  color: #848484;
 }
 
 h2 {
   font-size: 36px;
-  color: #303030;
+  color: #848484;
   font-weight: 400;
 }
 
 h3 {
   font-size: 24px;
-  color: #303030;
+  color: #848484;
   font-weight: 400;
 }
 
@@ -38,26 +38,9 @@ p {
   font-size: 17px;
   font-weight: 100;
   line-height: 1.8;
-  color: #303030;
-}
-
-.writing {
+  color: #848484;
   margin-top: 45px;
   margin-bottom: 0px;
-}
-
-.sub-list {
-  margin: 20px 0;
-}
-
-blockquote {
-  font-size: 20px;
-  font-weight: 200;
-  font-style: italic;
-  float: middle;
-  border-left: 3px solid rgba(0,0,0,.84);
-  padding-left: 20px;
-  margin: 50px 50px 50px -23px;
 }
 
 object {
@@ -164,31 +147,20 @@ object {
 
 .nav {
     margin: 0 auto;
-    bottom: 0;
+    bottom: 0; /* Position the navbar at the top of the page */
     padding: 10px;
 }
 
 .fixed-top {
-  background: inherit;
-  background-color: rgba(255,255,255,0.9);
-  position: fixed;
-  top: 0px;
-  -webkit-backdrop-filter: blur(10px);
+  position: relative;
+  background-color: white;
 }
-
 .fixed-bottom{
   background: inherit;
-  /* background-color: rgba(255,255,255,0.9); */
-  /* background-color: #191919; */
-  background-color: rgba(25, 25, 25, 0.9);
-  position: fixed;
-  bottom: 0px;
+  background-color: rgba(255,255,255,0.9);
+  position: absolute;
+  bottom: 0;
   -webkit-backdrop-filter: blur(10px);
-}
-
-.blur{
-  background: inherit;
-  backdrop-filter: blur(2px);
 }
 
 .navigation {
@@ -198,8 +170,7 @@ object {
 .nav-link {
   float: left;
   display: inline-block;
-  /* color: #4a4a4a; */
-  color: #bbb;
+  color: #4a4a4a;
   text-align: center;
   text-decoration: none;
   font-size: 16px;
@@ -207,32 +178,13 @@ object {
   padding: 10px 10px;
 }
 
-.nav-item {
-  color: #bbb;
+.blur{
+  background: inherit;
+  backdrop-filter: blur(2px);
 }
-
-.active {
-  color: #58E2FF;
-  font-weight: 400;
-}
-
-.active a:hover {
-    font-weight: 600;
-    color: #58E2FF;
-    text-decoration: none;
-}
-.active a::after {
-    display: block;
-    content: attr(title);
-    font-weight: bold;
-    height: 0;
-    overflow: hidden;
-    visibility: hidden;
-}
-
 a.hover-link:hover {
   font-weight: 600;
-  color: #58E2FF;
+  color: #5292AD;
   text-decoration: none;
   padding: 10px 8px;
 }
@@ -246,24 +198,81 @@ a.hover-link::after {
     visibility: hidden;
 }
 
-.circle {
-    box-shadow: 3px 3px 20px 2px #ddd;
-    background: #303030;
-    width: 140px;
-    height: 140px;
-    margin: 30px auto;
-    border-radius: 50%;
+
+.active {
+  color: #5292AD;
+  font-weight: 400;
 }
 
-.circle:hover {
-  box-shadow: 6px 6px 20px 2px #d2d2d2;
-  background: #58E2FF;
+.active a:hover {
+    font-weight: 600;
+    color: #5292AD;
+    text-decoration: none;
+}
+.active a::after {
+    display: block;
+    content: attr(title);
+    font-weight: bold;
+    height: 0;
+    overflow: hidden;
+    visibility: hidden;
 }
 
-.top-header {
-  position-fixed;
-  top: 0;
-  left: 0;
+
+.bottom-nav {
+    background-color: none;
+    overflow: hidden;
+    float: left;
+    display: inline-block;
+    color: #4a4a4a;
+    text-align: center;
+    padding: 16px 16px;
+}
+
+/* Style the links inside the navigation bar */
+
+.bottom-nav a {
+    float: left;
+    display: inline-block;
+    color: #4a4a4a;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 100;
+}
+
+.bottom-nav a:hover {
+    font-weight: 600;
+    color: #5292AD;
+}
+.bottom-nav a::after {
+    display: block;
+    content: attr(title);
+    font-weight: bold;
+    height: 0;
+    overflow: hidden;
+    visibility: hidden;
+}
+
+/* Hide the link that should open and close the topnav on small screens */
+.icon {
+    display: none;
+}
+.divider {
+  position: relative;
+  float: left;
+  display: inline-block;
+  color: #4a4a4a;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 100;
+}
+
+.header {
+  margin-top: 60px;
+  margin-bottom: 60px;
 }
 
 .section-wrapper {
@@ -271,8 +280,7 @@ a.hover-link::after {
 }
 
 .big-wrapper {
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin: 0 45px;
 }
 
 .video-wrapper {
@@ -280,7 +288,7 @@ a.hover-link::after {
   margin: 0 45px;
 }
 
-.home-wrapper {
+.header-wrapper {
   align-items: center;
   display: flex;
   flex-direction: column;
@@ -291,89 +299,33 @@ a.hover-link::after {
 }
 @-webkit-keyframes fadeIn {
   from {
-    opacity: 0;
+    opacity: 1;
     background-color: white;
   }
 
   to {
-    opacity: 1;
-    background-color: #191919;
+    opacity: 0;
+    background-color: white;
   }
 }
 
 @keyframes fade-in {
   from {
-    opacity: 0;
-    background-color: white;
+    opacity: 1;
+    background-color: #191919;
   }
 
   to {
-    opacity: 1;
-    background-color: #191919;
+    opacity: 0;
+    background-color: white;
   }
 }
 
 .fade-in {
     width: 100%;
     height: 100%;
-    background-color: #191919;
+    background-color: white;
     animation-name: fadeIn;
-    animation-duration: 1s;
-}
-
-@-webkit-keyframes fade-h4 {
-  from {
-    opacity: 0;
-    color: white;
-  }
-
-  to {
-    opacity: 1;
-    color: #848484;
-  }
-}
-
-@keyframes fade-h4 {
-  from {
-    opacity: 0;
-    color: white;
-  }
-
-  to {
-    opacity: 1;
-    color: #848484;
-  }
-}
-
-.fade-h4 {
-    animation-name: fade-h4;
-    animation-delay: 0s;
-    animation-duration: 4s;
-}
-
-@-webkit-keyframes fade-sig {
-  from {
-    opacity: 0;
-  }
-
-  to {
-    opacity: 1;
-  }
-}
-
-@keyframes fade-sig {
-  from {
-    opacity: 0;
-  }
-
-  to {
-    opacity: 1;
-  }
-}
-
-.fade-sig {
-    animation-name: fade-sig;
-    animation-delay: 0s;
     animation-duration: 4s;
 }
 
@@ -430,17 +382,19 @@ a.hover-link::after {
   margin-top: 110px;
 }
 
-#list {
-  margin: 20px 0;
+.circle {
+    box-shadow: 3px 3px 20px 2px #ddd;
+    background: #4a4a4a;
+    width: 140px;
+    height: 140px;
+    margin: 30px auto;
+    border-radius: 50%;
 }
 
-#coded-by-me {
-  position: fixed;
-  bottom: 0;
-  text-align: center;
-  padding: 100px 0;
+.circle:hover {
+  box-shadow: 6px 6px 20px 2px #d2d2d2;
+  background: #5292AD;
 }
-
 .center {
   margin: auto;
 }
@@ -491,7 +445,10 @@ a.hover-link::after {
   }
 }
 
-@media screen and (max-width: 835px) {
+@media screen and (max-width: 600px) {
+  #margin {
+    margin: auto;
+  }
   h1 {
     font-size: 34px;
   }
@@ -504,7 +461,9 @@ a.hover-link::after {
   p {
     font-size: 17px;
   }
-
+  #signature {
+    width: 80%;
+  }
   .bg {
     height: 300px;
   }
@@ -513,17 +472,6 @@ a.hover-link::after {
   }
   .center {
       padding: 6% 0;
-  }
-  .break90 {
-    height: 45px;
-    width: auto;
-  }
-  #signature {
-    width:70%;
-    fill: #fff;
-  }
-  #margin {
-    margin: auto;
   }
 }
 
