@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="640px" viewBox="0 0 360 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #F2F2F2;">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>8.5 Edit Contact - Default New Contact</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="360" height="50"></rect>
+        <filter x="-0.1%" y="-1.0%" width="100.3%" height="104.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-3" points="0 0 360 0 360 24 0 24"></polygon>
+        <polyline id="path-4" points="12.21 12.3316667 12.21 0.332666667 0.211666667 12.3316667 12.21 12.3316667"></polyline>
+        <path d="M7.208,1.33266667 L6.208,1.33266667 L6.208,0.333 L2.20866667,0.333 L2.20866667,1.33266667 L1.20833333,1.33266667 C0.656333333,1.33266667 0.208666667,1.78033333 0.208666667,2.33233333 L0.208666667,12.3313333 C0.208666667,12.8836667 0.656333333,13.3316667 1.20833333,13.3316667 L7.208,13.3316667 C7.76033333,13.3316667 8.208,12.8836667 8.208,12.3313333 L8.208,2.33233333 C8.208,1.78033333 7.76033333,1.33266667 7.208,1.33266667" id="path-6"></path>
+        <rect id="path-8" x="0" y="0" width="240" height="40"></rect>
+        <rect id="path-9" x="0" y="0" width="240" height="40"></rect>
+        <rect id="path-10" x="0" y="0" width="240" height="40"></rect>
+        <circle id="path-11" cx="30" cy="30" r="30"></circle>
+    </defs>
+    <g id="8.5-Edit-Contact---Default-New-Contact" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cancel-+-Save-Buttons" transform="translate(0.000000, 24.000000)">
+            <g id="backgroundButtons">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <text id="Save" font-family="Roboto-Regular, Roboto" font-size="18" font-weight="normal" line-spacing="23" fill="#CD040B">
+                <tspan x="306.521484" y="29">Save</tspan>
+            </text>
+            <text id="Cancel" font-family="Roboto-Regular, Roboto" font-size="18" font-weight="normal" line-spacing="23" fill="#4B4B4B">
+                <tspan x="15.1176758" y="29">Cancel</tspan>
+            </text>
+        </g>
+        <g id="andHeaderHandset-(Default)">
+            <g id="frameAndroidHeader">
+                <use fill="#CCCCCC" xlink:href="#path-3"></use>
+                <use fill-opacity="0.200000003" fill="#000000" xlink:href="#path-3"></use>
+            </g>
+            <g id="Info" stroke-width="1" transform="translate(248.000000, 4.000000)">
+                <g id="WiFi-Signal" transform="translate(0.000000, 2.000000)" fill="#E6E6E6">
+                    <path d="M6.88,0.332666667 C4.37766667,0.332666667 2.05433333,1.09966667 0.131333333,2.41033333 L1.81866667,4.89066667 C3.26066667,3.90766667 5.003,3.33233333 6.88,3.33233333 C8.757,3.33233333 10.4993333,3.90766667 11.9416667,4.89066667 L13.6286667,2.41033333 C11.706,1.09966667 9.38266667,0.332666667 6.88,0.332666667" id="4" fill-opacity="0.500283062"></path>
+                    <path d="M6.88,3.33233333 C5.003,3.33233333 3.26066667,3.90766667 1.81866667,4.89066667 L3.50633333,7.37133333 C4.46766667,6.716 5.62866667,6.332 6.88,6.332 C8.13133333,6.332 9.29266667,6.716 10.254,7.37133333 L11.9416667,4.89066667 C10.4993333,3.90766667 8.757,3.33233333 6.88,3.33233333" id="3"></path>
+                    <path d="M6.88,6.332 C5.62866667,6.332 4.46766667,6.716 3.50633333,7.37133333 L5.193,9.85133333 C5.67366667,9.52366667 6.25433333,9.33166667 6.88,9.33166667 C7.50566667,9.33166667 8.08633333,9.52366667 8.567,9.85166667 L10.254,7.37133333 C9.29266667,6.716 8.13133333,6.332 6.88,6.332" id="2"></path>
+                    <path d="M6.88,9.33166667 C6.25433333,9.33166667 5.67366667,9.52366667 5.193,9.85133333 L6.88,12.3316667 L8.567,9.85166667 C8.08633333,9.52366667 7.50566667,9.33166667 6.88,9.33166667" id="1"></path>
+                </g>
+                <g id="Tower-Signal" transform="translate(24.666667, 2.000000)">
+                    <mask id="mask-5" fill="white">
+                        <use xlink:href="#path-4"></use>
+                    </mask>
+                    <g id="frameTowerSignal"></g>
+                    <polyline id="4" fill-opacity="0.500283062" fill="#E6E6E6" mask="url(#mask-5)" points="12.21 0.332666667 9.21066667 3.33233333 9.21066667 12.3316667 12.21 12.3316667 12.21 0.332666667"></polyline>
+                    <polyline id="3" fill-opacity="0.500283062" fill="#E6E6E6" mask="url(#mask-5)" points="9.21066667 3.33233333 6.21066667 6.332 6.21066667 12.3316667 9.21066667 12.3316667 9.21066667 3.33233333"></polyline>
+                    <polyline id="2" fill="#E6E6E6" mask="url(#mask-5)" points="6.21066667 6.332 3.211 9.332 3.211 12.3316667 6.21066667 12.3316667 6.21066667 6.332"></polyline>
+                    <polyline id="1" fill="#E6E6E6" mask="url(#mask-5)" points="3.211 9.332 0.211666667 12.3316667 3.211 12.3316667 3.211 9.332"></polyline>
+                </g>
+                <g id="Battery" transform="translate(50.666667, 1.000000)">
+                    <mask id="mask-7" fill="white">
+                        <use xlink:href="#path-6"></use>
+                    </mask>
+                    <g id="Clip-14"></g>
+                    <path d="M8.208,10.3316667 L0.208666667,10.3316667 L0.208666667,12.3313333 C0.208666667,12.8836667 0.656333333,13.3316667 1.20833333,13.3316667 L7.208,13.3316667 C7.76033333,13.3316667 8.208,12.8836667 8.208,12.3313333 L8.208,10.3316667" id="1" fill="#E6E6E6" mask="url(#mask-7)"></path>
+                    <polygon id="2" fill="#E6E6E6" mask="url(#mask-7)" points="0.208666667 7.332 8.208 7.332 8.208 10.3316667 0.208666667 10.3316667"></polygon>
+                    <polygon id="3" fill-opacity="0.5" fill="#FFFFFF" mask="url(#mask-7)" points="0.208666667 4.33233333 8.208 4.33233333 8.208 7.332 0.208666667 7.332"></polygon>
+                    <path d="M7.208,1.33266667 L1.20833333,1.33266667 C0.656333333,1.33266667 0.208666667,1.78033333 0.208666667,2.33233333 L0.208666667,4.33233333 L8.208,4.33233333 L8.208,2.33233333 C8.208,1.78033333 7.76033333,1.33266667 7.208,1.33266667" id="4" fill-opacity="0.5" fill="#FFFFFF" mask="url(#mask-7)"></path>
+                    <polygon id="5" fill-opacity="0.5" fill="#FFFFFF" mask="url(#mask-7)" points="2.20866667 0.333 6.20833333 0.333 6.20833333 1.333 2.20866667 1.333"></polygon>
+                </g>
+                <text id="12:52" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="71.5376458" y="11.8685242">12:52</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Group-10" transform="translate(0.000000, 94.000000)">
+            <g id="Group-5" transform="translate(100.000000, 0.000000)">
+                <g id="Name">
+                    <g id="Rectangle-27">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-8"></use>
+                        <rect stroke="#CCCCCC" stroke-width="1" x="0.5" y="0.5" width="239" height="39"></rect>
+                    </g>
+                    <text font-family="NHaasGroteskTXStd-55Rg, Neue Haas Grotesk Text Std" font-size="15" font-weight="normal" fill="#959595">
+                        <tspan x="15" y="26">Name</tspan>
+                    </text>
+                    <g id="iconNavigationBack" transform="translate(220.000000, 20.000000) scale(1, -1) rotate(-270.000000) translate(-220.000000, -20.000000) translate(210.000000, 10.000000)">
+                        <rect id="bounding-box" fill-opacity="0" fill="#FFFFFF" x="-3.55271368e-15" y="0" width="20" height="20"></rect>
+                        <polyline id="Back" fill="#959595" points="13.9318558 4.38677333 13.042157 3.5 6.525 9.99653333 6.52847674 9.99991333 6.52534767 10.0030333 13.0419831 16.5 13.9315081 15.61314 8.30109477 9.99965333 13.9318558 4.38677333"></polyline>
+                    </g>
+                </g>
+                <g id="Input-Company" transform="translate(0.000000, 55.000000)">
+                    <g id="Rectangle-27">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-9"></use>
+                        <rect stroke="#CCCCCC" stroke-width="1" x="0.5" y="0.5" width="239" height="39"></rect>
+                    </g>
+                    <text id="Company" font-family="NHaasGroteskTXStd-55Rg, Neue Haas Grotesk Text Std" font-size="15" font-weight="normal" fill="#959595">
+                        <tspan x="15" y="26">Company</tspan>
+                    </text>
+                </g>
+                <g id="Input-Position" transform="translate(0.000000, 110.000000)">
+                    <g id="Rectangle-27">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-10"></use>
+                        <rect stroke="#CCCCCC" stroke-width="1" x="0.5" y="0.5" width="239" height="39"></rect>
+                    </g>
+                    <text id="Position-(Optional)" font-family="NHaasGroteskTXStd-55Rg, Neue Haas Grotesk Text Std" font-size="15" font-weight="normal" fill="#959595">
+                        <tspan x="15" y="26">Position (Optional)</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Add-Photo" transform="translate(20.000000, 0.000000)">
+                <text font-family="NHaasGroteskTXStd-55Rg, Neue Haas Grotesk Text Std" font-size="12" font-weight="normal" fill="#333333">
+                    <tspan x="1.022" y="77">Add Photo</tspan>
+                </text>
+                <g id="avatarAddPhoto">
+                    <mask id="mask-12" fill="white">
+                        <use xlink:href="#path-11"></use>
+                    </mask>
+                    <use id="Mask" fill="#F9B295" opacity="0.8" xlink:href="#path-11"></use>
+                    <path d="M21.4081515,24.2971351 L21.4081515,35.4193548 L20.9972883,35.4193548 C20.4474386,35.4193548 20,34.9834455 20,34.4465763 L20,22.9715907 C20,22.4335338 20.4474386,22 20.9972883,22 L36.3699136,22 C36.9222016,22 37.3684211,22.4335338 37.3684211,22.9715907 L37.3684211,23.3243566 L22.4054398,23.3243566 C21.8543709,23.3243566 21.4081515,23.7602659 21.4081515,24.2971351 Z M28.5750756,35.6933628 L28.5787331,35.687424 L24.7834295,35.6933628 L28.5433769,30.3021031 L30.4562684,32.9947636 L33.3030509,28.9124196 L38.1102729,35.6802974 L28.5750756,35.6933628 Z M29.7966927,27.1913499 C30.4867479,27.1913499 31.046351,27.7365334 31.046351,28.40762 C31.046351,29.081082 30.4867479,29.6262656 29.7966927,29.6262656 C29.1066375,29.6262656 28.5470344,29.081082 28.5470344,28.40762 C28.5470344,27.7365334 29.1066375,27.1913499 29.7966927,27.1913499 L29.7966927,27.1913499 Z M39.0014926,24.5806452 L23.6288672,24.5806452 C23.0777984,24.5806452 22.6315789,25.0165545 22.6315789,25.5534237 L22.6315789,37.0272215 C22.6315789,37.5640907 23.0777984,38 23.6288672,38 L39.0014926,38 C39.5537806,38 40,37.5640907 40,37.0272215 L40,25.5534237 C40,25.0165545 39.5537806,24.5806452 39.0014926,24.5806452 L39.0014926,24.5806452 Z" id="iconAddPhoto" fill="#FFFFFF" mask="url(#mask-12)"></path>
+                </g>
+            </g>
+            <g id="Group-7" transform="translate(0.000000, 230.000000)">
+                <g id="Personal-Header">
+                    <rect id="Rectangle-121" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="360" height="40"></rect>
+                    <polygon id="iconAdd" fill="#333333" points="328 18.9998453 328 20.9999742 321.999974 20.9999742 321.999974 27 320.000026 27 320.000026 20.9999742 314 20.9999742 314 18.9998453 320.000026 18.9998453 320.000026 13 321.999974 13 321.999974 18.9998453"></polygon>
+                    <text id="Personal" font-family="NHaasGroteskTXStd-75Bd, Neue Haas Grotesk Text Std" font-size="16" font-weight="bold" fill="#333333">
+                        <tspan x="20" y="26">Personal</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Group-8" transform="translate(0.000000, 170.000000)">
+                <g id="Work-Header">
+                    <rect id="Rectangle-121" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="360" height="40"></rect>
+                    <polygon id="iconAdd" fill="#333333" points="328 18.9998453 328 20.9999742 321.999974 20.9999742 321.999974 27 320.000026 27 320.000026 20.9999742 314 20.9999742 314 18.9998453 320.000026 18.9998453 320.000026 13 321.999974 13 321.999974 18.9998453"></polygon>
+                    <text id="Work" font-family="NHaasGroteskTXStd-75Bd, Neue Haas Grotesk Text Std" font-size="16" font-weight="bold" fill="#333333">
+                        <tspan x="20" y="26">Work</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

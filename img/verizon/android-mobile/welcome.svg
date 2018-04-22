@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="640px" viewBox="0 0 360 640" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #F6F6F6;">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>3.0.0.1 Call Log - Getting Started 1 of 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="60" height="60" rx="30"></rect>
+        <filter x="-6.7%" y="-3.3%" width="113.3%" height="113.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-3" points="360 0 0 0 0 90 360 90"></polygon>
+        <filter x="-0.1%" y="-0.6%" width="100.3%" height="102.2%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.894117653   0 0 0 0 0.898039222   0 0 0 0 0.890196085  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-5" points="360 0 0 0 0 50 360 50"></polygon>
+        <filter x="-0.1%" y="-1.0%" width="100.3%" height="104.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.894117653   0 0 0 0 0.898039222   0 0 0 0 0.890196085  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-7" points="0 0 360 0 360 24 0 24"></polygon>
+        <polyline id="path-8" points="12.21 12.3316667 12.21 0.332666667 0.211666667 12.3316667 12.21 12.3316667"></polyline>
+        <path d="M7.208,1.33266667 L6.208,1.33266667 L6.208,0.333 L2.20866667,0.333 L2.20866667,1.33266667 L1.20833333,1.33266667 C0.656333333,1.33266667 0.208666667,1.78033333 0.208666667,2.33233333 L0.208666667,12.3313333 C0.208666667,12.8836667 0.656333333,13.3316667 1.20833333,13.3316667 L7.208,13.3316667 C7.76033333,13.3316667 8.208,12.8836667 8.208,12.3313333 L8.208,2.33233333 C8.208,1.78033333 7.76033333,1.33266667 7.208,1.33266667" id="path-10"></path>
+        <rect id="path-12" x="0" y="0" width="300" height="365" rx="3"></rect>
+        <filter x="-2.3%" y="-1.4%" width="104.7%" height="103.8%" filterUnits="objectBoundingBox" id="filter-13">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-14" x="0" y="0" width="300" height="365" rx="3"></rect>
+        <filter x="-2.3%" y="-1.4%" width="104.7%" height="103.8%" filterUnits="objectBoundingBox" id="filter-15">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-16" x="0" y="0" width="300" height="365" rx="3"></rect>
+        <filter x="-2.3%" y="-1.4%" width="104.7%" height="103.8%" filterUnits="objectBoundingBox" id="filter-17">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-18" x="0" y="0" width="300" height="365" rx="3"></rect>
+        <filter x="-2.3%" y="-1.4%" width="104.7%" height="103.8%" filterUnits="objectBoundingBox" id="filter-19">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="3.0.0.1-Call-Log---Getting-Started-1-of-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="buttonOverlayNewCall" transform="translate(280.000000, 560.000000)">
+            <g id="frameButton">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#CD040B" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <path d="M25.809375,20.9141207 C25.809375,21.9552995 24.9565,22.8003736 23.90525,22.8003736 C22.854,22.8003736 22,21.9552995 22,20.9141207 C22,19.8718255 22.854,19.0277438 23.90525,19.0277438 C24.9565,19.0277438 25.809375,19.8718255 25.809375,20.9141207 M31.904625,20.9141207 C31.904625,19.8718255 31.051875,19.0277438 29.9995,19.0277438 C28.948125,19.0277438 28.095375,19.8718255 28.095375,20.9141207 C28.095375,21.9552995 28.948125,22.8003736 29.9995,22.8003736 C31.051875,22.8003736 31.904625,21.9552995 31.904625,20.9141207 M38,20.9141207 C38,19.8718255 37.146125,19.0277438 36.09375,19.0277438 C35.0425,19.0277438 34.19075,19.8718255 34.19075,20.9141207 C34.19075,21.9552995 35.0425,22.8003736 36.09375,22.8003736 C37.146125,22.8003736 38,21.9552995 38,20.9141207 M25.809375,26.9503284 C25.809375,25.9080332 24.9565,25.0639514 23.90525,25.0639514 C22.854,25.0639514 22,25.9080332 22,26.9503284 C22,27.9913832 22.854,28.8372014 23.90525,28.8372014 C24.9565,28.8372014 25.809375,27.9913832 25.809375,26.9503284 M31.904625,33.0179178 C31.904625,31.9756226 31.051875,31.1315409 29.9995,31.1315409 C28.948125,31.1315409 28.095375,31.9756226 28.095375,33.0179178 C28.095375,34.0589726 28.948125,34.9047909 29.9995,34.9047909 C31.051875,34.9047909 31.904625,34.0589726 31.904625,33.0179178 M38,26.9503284 C38,25.9080332 37.146125,25.0639514 36.09375,25.0639514 C35.0425,25.0639514 34.19075,25.9080332 34.19075,26.9503284 C34.19075,27.9913832 35.0425,28.8372014 36.09375,28.8372014 C37.146125,28.8372014 38,27.9913832 38,26.9503284 M31.904625,26.9503284 C31.904625,25.9080332 31.05075,25.0639514 29.998375,25.0639514 C28.947125,25.0639514 28.095375,25.9080332 28.095375,26.9503284 C28.095375,27.9913832 28.947125,28.8372014 29.998375,28.8372014 C31.05075,28.8372014 31.904625,27.9913832 31.904625,26.9503284 M25.809375,33.0177938 C25.809375,31.9766149 24.9565,31.1315409 23.90525,31.1315409 C22.854,31.1315409 22,31.9766149 22,33.0177938 C22,34.0600889 22.854,34.9046668 23.90525,34.9046668 C24.9565,34.9046668 25.809375,34.0600889 25.809375,33.0177938 M31.904625,39.0853832 C31.904625,38.0442043 31.051875,37.1991303 29.9995,37.1991303 C28.948125,37.1991303 28.095375,38.0442043 28.095375,39.0853832 C28.095375,40.1276784 28.948125,40.9722562 29.9995,40.9722562 C31.051875,40.9722562 31.904625,40.1276784 31.904625,39.0853832 M38,33.0177938 C38,31.9766149 37.146125,31.1315409 36.09375,31.1315409 C35.0425,31.1315409 34.19075,31.9766149 34.19075,33.0177938 C34.19075,34.0600889 35.0425,34.9046668 36.09375,34.9046668 C37.146125,34.9046668 38,34.0600889 38,33.0177938" id="dial-pad" fill="#FFFFFF" fill-rule="evenodd"></path>
+        </g>
+        <g id="Main-Header-(Calls)" transform="translate(0.000000, 24.000000)">
+            <g id="mainHeader">
+                <g id="frameBgHeader">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+                <text id="One-Talk" font-family="NHaasGroteskDSPro-75Bd, Neue Haas Grotesk Display Pro" font-size="18" font-weight="bold" letter-spacing="0.385714322" fill="#4B4B4B">
+                    <tspan x="142.929143" y="31">One Talk</tspan>
+                </text>
+                <g id="iconNavigationMenu" transform="translate(5.000000, 5.000000)">
+                    <rect id="frameIcon" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="40" height="40"></rect>
+                    <path d="M29.0000003,15.9897059 C29.0000003,16.0229883 28.9731203,16.05 28.9400003,16.05 L11.06,16.05 C11.02688,16.05 11,16.0229883 11,15.9897059 L11,14.0602941 C11,14.0270118 11.02688,14 11.06,14 L28.9400003,14 C28.9731203,14 29.0000003,14.0270118 29.0000003,14.0602941 L29.0000003,15.9897059 L29.0000003,15.9897059 Z M29.0000003,19.0044118 C29.0000003,18.9711295 28.9731203,18.9441177 28.9400003,18.9441177 L11.06,18.9441177 C11.02688,18.9441177 11,18.9711295 11,19.0044118 L11,20.9338236 C11,20.967106 11.02688,20.9941178 11.06,20.9941178 L28.9400003,20.9941178 C28.9731203,20.9941178 29.0000003,20.967106 29.0000003,20.9338236 L29.0000003,19.0044118 L29.0000003,19.0044118 Z M29.0000003,24.3102943 C29.0000003,24.2770119 28.9731203,24.2500002 28.9400003,24.2500002 L11.06,24.2500002 C11.02688,24.2500002 11,24.2770119 11,24.3102943 L11,26.2397061 C11,26.2729884 11.02688,26.3000002 11.06,26.3000002 L28.9400003,26.3000002 C28.9731203,26.3000002 29.0000003,26.2729884 29.0000003,26.2397061 L29.0000003,24.3102943 L29.0000003,24.3102943 Z" id="Menu" fill="#333333"></path>
+                </g>
+                <g id="iconNavigationContacts" transform="translate(315.000000, 5.000000)">
+                    <rect id="frameIcon" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="40" height="40"></rect>
+                    <path d="M27.2366823,13.5020496 C27.2366823,12.303885 26.186951,11 23.9827383,11 L16.5142682,11 C16.4630075,11 16.4128611,11.004405 16.3616003,11.00881 C16.3281694,11.0077088 16.2947385,11.004405 16.2613075,11.004405 C14.305598,11.004405 12.7220863,12.5703885 12.7220863,14.5019884 C12.7220863,14.6275314 12.7254294,15.0471092 12.7254294,15.1374121 L12.7677752,26.833833 C12.7677752,28.0308963 13.5656601,29 14.5541013,29 L23.4890749,29 C24.3839095,29 25.1238474,28.202692 25.2531137,27.1598042 C25.2564568,27.0507801 25.2586855,26.9428571 25.2586855,26.8393392 L25.2163396,15.1429183 C25.2163396,13.824717 24.8541712,12.9767513 23.4288992,12.9767513 L15.547,12.971245 C15.271752,12.971245 15.0499934,12.7487917 15.0499934,12.4745794 C15.0499934,12.2025696 15.2706376,11.98342 15.5425425,11.9801162 L15.547,11.9801162 L22.7391076,11.9801162 L22.7435651,11.9801162 L23.6573439,11.9801162 C25.1260761,11.9801162 26.1891797,12.9514225 26.1891797,14.1473845 L26.23264,25.8438054 C26.23264,26.2292444 26.1590919,26.6025696 26.0287113,26.9296421 C26.7530481,26.652126 27.2779137,25.8316916 27.2779137,24.8614867 L27.2366823,13.5020496 L27.2366823,13.5020496 Z M18.9669842,14.9347813 C20.3443386,14.9347813 21.4653892,16.0701744 21.4653892,17.4654634 C21.4653892,18.8596513 20.3443386,19.9961456 18.9669842,19.9961456 C17.5885155,19.9961456 16.4674649,18.8596513 16.4674649,17.4654634 C16.4674649,16.0701744 17.5885155,14.9347813 18.9669842,14.9347813 L18.9669842,14.9347813 Z M16.9009527,19.8904252 C17.4581349,20.3727745 18.1791286,20.6690119 18.969213,20.6690119 C19.7581829,20.6690119 20.480291,20.3727745 21.0363589,19.8904252 L21.8921907,20.1139798 C22.8048551,20.366167 23.1046191,20.7460997 23.0299567,21.2394616 L22.3468514,25.525543 C22.2465586,26.197308 21.8375869,26.6499235 21.2090853,26.6499235 L16.7271118,26.6499235 C16.0997247,26.6499235 15.6896386,26.197308 15.5904602,25.525543 L14.9084692,21.2394616 C14.8338068,20.7460997 15.1335708,20.366167 16.0451208,20.1139798 L16.9009527,19.8904252 Z" id="Imported-Layers" fill="#333333"></path>
+                </g>
+            </g>
+            <g id="tabsNavigation-(Calls)" transform="translate(0.000000, 50.000000)">
+                <polygon id="frameTabsMainNavigation" fill-opacity="0" fill="#FFFFFF" points="360 0 0 0 0 40 360 40"></polygon>
+                <g id="Tabs" transform="translate(0.000000, 38.000000)" fill="#CD040B">
+                    <polygon id="Tab-1" points="180 0 0 0 0 2 180 2"></polygon>
+                </g>
+                <text id="Calls" font-family="NHaasGroteskTXStd-75Bd, Neue Haas Grotesk Text Std" font-size="14" font-weight="bold" fill="#CD040B">
+                    <tspan x="74.214" y="25">Calls</tspan>
+                </text>
+                <text id="Messages" font-family="NHaasGroteskTXStd-65Md, Neue Haas Grotesk Text Std" font-size="14" font-weight="500" fill="#959595">
+                    <tspan x="236.753" y="25">Messages</tspan>
+                </text>
+            </g>
+            <g id="appHeaderSearchBar-(Calls)" transform="translate(0.000000, 91.000000)">
+                <g id="frameBgHeaderSecondary">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                </g>
+                <g id="iconNavigationSearch" transform="translate(5.000000, 5.000000)">
+                    <rect id="frameIcon" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="40" height="40"></rect>
+                    <path d="M15.7540527,18.0534082 C15.1530641,21.3582105 16.7587764,24.6858876 19.6575947,26.1438532 C20.2170562,26.4243701 20.8122772,26.6302431 21.4294152,26.7518405 C25.2925836,27.5151355 29.0288639,24.8604582 29.7636619,20.829683 C30.3646505,17.5248807 28.7600917,14.1972036 25.8601199,12.7380341 C25.2995048,12.4575171 24.7031303,12.2528481 24.0859924,12.1312507 C20.2251309,11.3667518 16.4876971,14.0202251 15.7540527,18.0534082 M23.7860748,13.7878656 C24.2647893,13.8829765 24.7250474,14.0394881 25.1576208,14.2561964 C27.400081,15.3854877 28.6424317,17.9595013 28.1775596,20.5142519 C27.6088698,23.6336482 24.7181262,25.6863578 21.7281792,25.0952256 C21.2529252,25.0001147 20.7915137,24.8448071 20.3589403,24.6268948 C18.1153265,23.4988074 16.8764364,20.9235899 17.3390015,18.3688393 C17.9076913,15.2482391 20.7984348,13.1943255 23.7860748,13.7878656 Z M12.6106863,27.6271015 C12.1377394,27.9605915 11.4952238,27.8305665 11.1780033,27.338157 C11.1076381,27.2310068 11.0580363,27.115429 11.0315052,26.9962394 C10.9276875,26.5700463 11.083414,26.1017155 11.4548503,25.8404615 L15.1634459,23.2327378 L16.3215889,25.0181737 L12.6106863,27.6271015 Z" id="Magnify" fill="#333333"></path>
+                </g>
+                <g id="iconNavigationOverflow-(Off)" transform="translate(325.000000, 5.000000)">
+                    <rect id="bounding-box" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="20" height="40"></rect>
+                    <path d="M11.2992832,20 C11.2992832,20.7363556 10.697491,21.3333333 9.95519713,21.3333333 C9.21290323,21.3333333 8.61111111,20.7363556 8.61111111,20 C8.61111111,19.2636444 9.21290323,18.6666667 9.95519713,18.6666667 C10.697491,18.6666667 11.2992832,19.2636444 11.2992832,20 L11.2992832,20 Z M9.95519713,24 C9.21290323,24 8.61111111,24.5969778 8.61111111,25.3333333 C8.61111111,26.0696889 9.21290323,26.6666667 9.95519713,26.6666667 C10.697491,26.6666667 11.2992832,26.0696889 11.2992832,25.3333333 C11.2992832,24.5969778 10.697491,24 9.95519713,24 L9.95519713,24 Z M9.95519713,13.3333333 C9.21290323,13.3333333 8.61111111,13.9303111 8.61111111,14.6666667 C8.61111111,15.4030222 9.21290323,16 9.95519713,16 C10.697491,16 11.2992832,15.4030222 11.2992832,14.6666667 C11.2992832,13.9303111 10.697491,13.3333333 9.95519713,13.3333333 L9.95519713,13.3333333 Z" id="Overflow" fill="#333333"></path>
+                </g>
+                <text id="Search" font-family="NHaasGroteskTXStd-55Rg, Neue Haas Grotesk Text Std" font-size="15" font-weight="normal" fill="#959595">
+                    <tspan x="49" y="31">Search</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="andHeaderHandset-(Default)">
+            <g id="frameAndroidHeader">
+                <use fill="#CCCCCC" xlink:href="#path-7"></use>
+                <use fill-opacity="0.200000003" fill="#000000" xlink:href="#path-7"></use>
+            </g>
+            <g id="Info" stroke-width="1" transform="translate(248.000000, 4.000000)">
+                <g id="WiFi-Signal" transform="translate(0.000000, 2.000000)" fill="#E6E6E6">
+                    <path d="M6.88,0.332666667 C4.37766667,0.332666667 2.05433333,1.09966667 0.131333333,2.41033333 L1.81866667,4.89066667 C3.26066667,3.90766667 5.003,3.33233333 6.88,3.33233333 C8.757,3.33233333 10.4993333,3.90766667 11.9416667,4.89066667 L13.6286667,2.41033333 C11.706,1.09966667 9.38266667,0.332666667 6.88,0.332666667" id="4" fill-opacity="0.500283062"></path>
+                    <path d="M6.88,3.33233333 C5.003,3.33233333 3.26066667,3.90766667 1.81866667,4.89066667 L3.50633333,7.37133333 C4.46766667,6.716 5.62866667,6.332 6.88,6.332 C8.13133333,6.332 9.29266667,6.716 10.254,7.37133333 L11.9416667,4.89066667 C10.4993333,3.90766667 8.757,3.33233333 6.88,3.33233333" id="3"></path>
+                    <path d="M6.88,6.332 C5.62866667,6.332 4.46766667,6.716 3.50633333,7.37133333 L5.193,9.85133333 C5.67366667,9.52366667 6.25433333,9.33166667 6.88,9.33166667 C7.50566667,9.33166667 8.08633333,9.52366667 8.567,9.85166667 L10.254,7.37133333 C9.29266667,6.716 8.13133333,6.332 6.88,6.332" id="2"></path>
+                    <path d="M6.88,9.33166667 C6.25433333,9.33166667 5.67366667,9.52366667 5.193,9.85133333 L6.88,12.3316667 L8.567,9.85166667 C8.08633333,9.52366667 7.50566667,9.33166667 6.88,9.33166667" id="1"></path>
+                </g>
+                <g id="Tower-Signal" transform="translate(24.666667, 2.000000)">
+                    <mask id="mask-9" fill="white">
+                        <use xlink:href="#path-8"></use>
+                    </mask>
+                    <g id="frameTowerSignal"></g>
+                    <polyline id="4" fill-opacity="0.500283062" fill="#E6E6E6" mask="url(#mask-9)" points="12.21 0.332666667 9.21066667 3.33233333 9.21066667 12.3316667 12.21 12.3316667 12.21 0.332666667"></polyline>
+                    <polyline id="3" fill-opacity="0.500283062" fill="#E6E6E6" mask="url(#mask-9)" points="9.21066667 3.33233333 6.21066667 6.332 6.21066667 12.3316667 9.21066667 12.3316667 9.21066667 3.33233333"></polyline>
+                    <polyline id="2" fill="#E6E6E6" mask="url(#mask-9)" points="6.21066667 6.332 3.211 9.332 3.211 12.3316667 6.21066667 12.3316667 6.21066667 6.332"></polyline>
+                    <polyline id="1" fill="#E6E6E6" mask="url(#mask-9)" points="3.211 9.332 0.211666667 12.3316667 3.211 12.3316667 3.211 9.332"></polyline>
+                </g>
+                <g id="Battery" transform="translate(50.666667, 1.000000)">
+                    <mask id="mask-11" fill="white">
+                        <use xlink:href="#path-10"></use>
+                    </mask>
+                    <g id="Clip-14"></g>
+                    <path d="M8.208,10.3316667 L0.208666667,10.3316667 L0.208666667,12.3313333 C0.208666667,12.8836667 0.656333333,13.3316667 1.20833333,13.3316667 L7.208,13.3316667 C7.76033333,13.3316667 8.208,12.8836667 8.208,12.3313333 L8.208,10.3316667" id="1" fill="#E6E6E6" mask="url(#mask-11)"></path>
+                    <polygon id="2" fill="#E6E6E6" mask="url(#mask-11)" points="0.208666667 7.332 8.208 7.332 8.208 10.3316667 0.208666667 10.3316667"></polygon>
+                    <polygon id="3" fill-opacity="0.5" fill="#FFFFFF" mask="url(#mask-11)" points="0.208666667 4.33233333 8.208 4.33233333 8.208 7.332 0.208666667 7.332"></polygon>
+                    <path d="M7.208,1.33266667 L1.20833333,1.33266667 C0.656333333,1.33266667 0.208666667,1.78033333 0.208666667,2.33233333 L0.208666667,4.33233333 L8.208,4.33233333 L8.208,2.33233333 C8.208,1.78033333 7.76033333,1.33266667 7.208,1.33266667" id="4" fill-opacity="0.5" fill="#FFFFFF" mask="url(#mask-11)"></path>
+                    <polygon id="5" fill-opacity="0.5" fill="#FFFFFF" mask="url(#mask-11)" points="2.20866667 0.333 6.20833333 0.333 6.20833333 1.333 2.20866667 1.333"></polygon>
+                </g>
+                <text id="12:52" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="71.5376458" y="11.8685242">12:52</tspan>
+                </text>
+            </g>
+        </g>
+        <text id="No-call-history-" font-family="NHaasGroteskDSPro-75Bd, Neue Haas Grotesk Display Pro" font-size="26" font-weight="bold" fill="#959595">
+            <tspan x="97.697" y="356">No call history </tspan>
+            <tspan x="124.022" y="387">to display</tspan>
+        </text>
+        <g id="Group-3" transform="translate(0.000000, 23.000000)">
+            <g id="Rectangle-146-+-Conversation-Row---Cory-Alexander-+-Conversation-Row---Cory-Alexander-+-Conversation-Row---Cory-Alexander" fill="#000000" opacity="0.599999964">
+                <rect id="Rectangle-146" x="0" y="0" width="360" height="617"></rect>
+            </g>
+            <g id="911-Notification" transform="translate(30.000000, 92.000000)">
+                <g id="Background">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-13)" xlink:href="#path-12"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-12"></use>
+                </g>
+                <g id="Group-9" transform="translate(137.000000, 299.500000)">
+                    <circle id="Oval-444" fill="#959595" cx="3" cy="3" r="3"></circle>
+                    <circle id="Oval-444" fill="#E4E5E3" cx="13" cy="3" r="3"></circle>
+                    <circle id="Oval-444" fill="#E4E5E3" cx="23" cy="3" r="3"></circle>
+                </g>
+                <g id="Group-8" transform="translate(48.000000, 105.000000)">
+                    <text id="When-you-place-a-cal" font-family="NHaasGroteskTXStd-55Rg, Neue Haas Grotesk Text Std" font-size="14" font-weight="normal" fill="#959595">
+                        <tspan x="3.776" y="131">When you place a call on </tspan>
+                        <tspan x="168.724" y="131" font-family="NHaasGroteskTXStd-75Bd, Neue Haas Grotesk Text Std" font-weight="bold">Hold</tspan>
+                        <tspan x="200.224" y="131"> </tspan>
+                        <tspan x="19.134" y="149">you can pick it up on your </tspan>
+                        <tspan x="25.063" y="166">other One Talk devices.</tspan>
+                    </text>
+                    <g id="iconCallActionHold-(Off)" transform="translate(42.000000, 0.000000)">
+                        <rect id="Frame" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="120" height="120"></rect>
+                        <path d="M81.9816,69.4558985 L67.12152,84.0716382 L67.09236,84.0416308 C65.346,85.7388342 62.96784,86.7923077 60.35028,86.7923077 L46.62312,86.7923077 C41.30952,86.7923077 36.96,82.4687437 36.96,77.1885157 L36.96,46.7142305 C36.96,44.804832 38.517,43.2533788 40.44048,43.2533788 C42.3636,43.2533788 43.92708,44.804832 43.92708,46.7142305 L43.92708,57.2364628 C43.92708,57.710508 44.31408,58.0948883 44.78964,58.0948883 C45.26448,58.0948883 45.65148,57.710508 45.65148,57.2364628 L45.65796,57.2364628 L45.65796,39.5481812 C45.65796,37.6362822 47.2146,36.0848289 49.13808,36.0848289 C51.0612,36.0848289 52.62144,37.6362822 52.62144,39.5481812 L52.62144,54.352896 C52.62144,54.8269412 53.00736,55.2109643 53.48616,55.2109643 C53.95992,55.2109643 54.34908,54.8269412 54.34908,54.352896 L54.34908,36.6664006 C54.34908,34.7548588 55.90896,33.2076923 57.83244,33.2076923 C59.75232,33.2076923 61.3158,34.7548588 61.3158,36.6664006 L61.3158,54.352896 C61.3158,54.8269412 61.70064,55.2109643 62.17728,55.2109643 C62.6532,55.2109643 63.04236,54.8269412 63.04236,54.352896 L63.04236,39.5481812 C63.04236,37.6362822 64.6026,36.0848289 66.5268,36.0848289 C68.45028,36.0848289 70.01016,37.6362822 70.01016,39.5481812 L70.01016,71.4878271 L77.08956,64.5250422 C78.45864,63.1839978 80.6658,63.1968582 82.01616,64.5596935 C83.36436,65.9153843 83.3514,68.108424 81.9816,69.4558985" id="Hand" fill="#333333" transform="translate(60.000000, 60.000000) scale(-1, 1) translate(-60.000000, -60.000000) "></path>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(0.000000, 325.000000)">
+                    <rect id="HR" fill="#E4E5E3" x="0" y="0" width="300" height="1"></rect>
+                    <rect id="VR" fill="#E4E5E3" x="150" y="0" width="1" height="40"></rect>
+                    <g id="toFrame-+-Save-+-toFrame-+-Save-+-toFrame-+-Save-+-toFrame-+-Save" transform="translate(38.000000, 11.000000)" font-family="Roboto-Bold, Roboto" font-size="16" font-weight="bold">
+                        <g id="toFrame-+-Save-+-toFrame-+-Save">
+                            <g id="toFrame-+-Save">
+                                <text id="Next" fill="#CC040B">
+                                    <tspan x="165.253906" y="15.5">Next</tspan>
+                                </text>
+                                <text id="Learn-More" fill="#4B4B4B">
+                                    <tspan x="0.890625" y="15.5">Learn More</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <text id="Welcome-to-One-Talk" font-family="NHaasGroteskTXStd-75Bd, Neue Haas Grotesk Text Std" font-size="36" font-weight="bold" line-spacing="36" fill="#000000">
+                    <tspan x="35.646" y="47.108">Welcome to </tspan>
+                    <tspan x="61.962" y="83.108">One Talk</tspan>
+                </text>
+            </g>
+            <g id="911-Notification" transform="translate(30.000000, 92.000000)">
+                <g id="Background">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-15)" xlink:href="#path-14"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-14"></use>
+                </g>
+                <g id="Group-9" transform="translate(137.000000, 299.500000)">
+                    <circle id="Oval-444" fill="#959595" cx="3" cy="3" r="3"></circle>
+                    <circle id="Oval-444" fill="#E4E5E3" cx="13" cy="3" r="3"></circle>
+                    <circle id="Oval-444" fill="#E4E5E3" cx="23" cy="3" r="3"></circle>
+                </g>
+                <g id="Group-8" transform="translate(48.000000, 105.000000)">
+                    <text id="When-you-place-a-cal" font-family="NHaasGroteskTXStd-55Rg, Neue Haas Grotesk Text Std" font-size="14" font-weight="normal" fill="#959595">
+                        <tspan x="3.776" y="131">When you place a call on </tspan>
+                        <tspan x="168.724" y="131" font-family="NHaasGroteskTXStd-75Bd, Neue Haas Grotesk Text Std" font-weight="bold">Hold</tspan>
+                        <tspan x="200.224" y="131"> </tspan>
+                        <tspan x="19.134" y="149">you can pick it up on your </tspan>
+                        <tspan x="25.063" y="166">other One Talk devices.</tspan>
+                    </text>
+                    <g id="iconCallActionHold-(Off)" transform="translate(42.000000, 0.000000)">
+                        <rect id="Frame" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="120" height="120"></rect>
+                        <path d="M81.9816,69.4558985 L67.12152,84.0716382 L67.09236,84.0416308 C65.346,85.7388342 62.96784,86.7923077 60.35028,86.7923077 L46.62312,86.7923077 C41.30952,86.7923077 36.96,82.4687437 36.96,77.1885157 L36.96,46.7142305 C36.96,44.804832 38.517,43.2533788 40.44048,43.2533788 C42.3636,43.2533788 43.92708,44.804832 43.92708,46.7142305 L43.92708,57.2364628 C43.92708,57.710508 44.31408,58.0948883 44.78964,58.0948883 C45.26448,58.0948883 45.65148,57.710508 45.65148,57.2364628 L45.65796,57.2364628 L45.65796,39.5481812 C45.65796,37.6362822 47.2146,36.0848289 49.13808,36.0848289 C51.0612,36.0848289 52.62144,37.6362822 52.62144,39.5481812 L52.62144,54.352896 C52.62144,54.8269412 53.00736,55.2109643 53.48616,55.2109643 C53.95992,55.2109643 54.34908,54.8269412 54.34908,54.352896 L54.34908,36.6664006 C54.34908,34.7548588 55.90896,33.2076923 57.83244,33.2076923 C59.75232,33.2076923 61.3158,34.7548588 61.3158,36.6664006 L61.3158,54.352896 C61.3158,54.8269412 61.70064,55.2109643 62.17728,55.2109643 C62.6532,55.2109643 63.04236,54.8269412 63.04236,54.352896 L63.04236,39.5481812 C63.04236,37.6362822 64.6026,36.0848289 66.5268,36.0848289 C68.45028,36.0848289 70.01016,37.6362822 70.01016,39.5481812 L70.01016,71.4878271 L77.08956,64.5250422 C78.45864,63.1839978 80.6658,63.1968582 82.01616,64.5596935 C83.36436,65.9153843 83.3514,68.108424 81.9816,69.4558985" id="Hand" fill="#333333" transform="translate(60.000000, 60.000000) scale(-1, 1) translate(-60.000000, -60.000000) "></path>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(0.000000, 325.000000)">
+                    <rect id="HR" fill="#E4E5E3" x="0" y="0" width="300" height="1"></rect>
+                    <rect id="VR" fill="#E4E5E3" x="150" y="0" width="1" height="40"></rect>
+                    <g id="toFrame-+-Save-+-toFrame-+-Save-+-toFrame-+-Save-+-toFrame-+-Save" transform="translate(38.000000, 11.000000)" font-family="Roboto-Bold, Roboto" font-size="16" font-weight="bold">
+                        <g id="toFrame-+-Save-+-toFrame-+-Save">
+                            <g id="toFrame-+-Save">
+                                <text id="Next" fill="#CC040B">
+                                    <tspan x="165.253906" y="15.5">Next</tspan>
+                                </text>
+                                <text id="Learn-More" fill="#4B4B4B">
+                                    <tspan x="0.890625" y="15.5">Learn More</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <text id="Welcome-to-One-Talk" font-family="NHaasGroteskTXStd-75Bd, Neue Haas Grotesk Text Std" font-size="36" font-weight="bold" line-spacing="36" fill="#000000">
+                    <tspan x="35.646" y="47.108">Welcome to </tspan>
+                    <tspan x="61.962" y="83.108">One Talk</tspan>
+                </text>
+            </g>
+            <g id="911-Notification" transform="translate(30.000000, 92.000000)">
+                <g id="Background">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-17)" xlink:href="#path-16"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-16"></use>
+                </g>
+                <g id="Group-9" transform="translate(137.000000, 299.500000)">
+                    <circle id="Oval-444" fill="#959595" cx="3" cy="3" r="3"></circle>
+                    <circle id="Oval-444" fill="#E4E5E3" cx="13" cy="3" r="3"></circle>
+                    <circle id="Oval-444" fill="#E4E5E3" cx="23" cy="3" r="3"></circle>
+                </g>
+                <g id="Group-8" transform="translate(48.000000, 105.000000)">
+                    <text id="When-you-place-a-cal" font-family="NHaasGroteskTXStd-55Rg, Neue Haas Grotesk Text Std" font-size="14" font-weight="normal" fill="#959595">
+                        <tspan x="3.776" y="131">When you place a call on </tspan>
+                        <tspan x="168.724" y="131" font-family="NHaasGroteskTXStd-75Bd, Neue Haas Grotesk Text Std" font-weight="bold">Hold</tspan>
+                        <tspan x="200.224" y="131"> </tspan>
+                        <tspan x="19.134" y="149">you can pick it up on your </tspan>
+                        <tspan x="25.063" y="166">other One Talk devices.</tspan>
+                    </text>
+                    <g id="iconCallActionHold-(Off)" transform="translate(42.000000, 0.000000)">
+                        <rect id="Frame" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="120" height="120"></rect>
+                        <path d="M81.9816,69.4558985 L67.12152,84.0716382 L67.09236,84.0416308 C65.346,85.7388342 62.96784,86.7923077 60.35028,86.7923077 L46.62312,86.7923077 C41.30952,86.7923077 36.96,82.4687437 36.96,77.1885157 L36.96,46.7142305 C36.96,44.804832 38.517,43.2533788 40.44048,43.2533788 C42.3636,43.2533788 43.92708,44.804832 43.92708,46.7142305 L43.92708,57.2364628 C43.92708,57.710508 44.31408,58.0948883 44.78964,58.0948883 C45.26448,58.0948883 45.65148,57.710508 45.65148,57.2364628 L45.65796,57.2364628 L45.65796,39.5481812 C45.65796,37.6362822 47.2146,36.0848289 49.13808,36.0848289 C51.0612,36.0848289 52.62144,37.6362822 52.62144,39.5481812 L52.62144,54.352896 C52.62144,54.8269412 53.00736,55.2109643 53.48616,55.2109643 C53.95992,55.2109643 54.34908,54.8269412 54.34908,54.352896 L54.34908,36.6664006 C54.34908,34.7548588 55.90896,33.2076923 57.83244,33.2076923 C59.75232,33.2076923 61.3158,34.7548588 61.3158,36.6664006 L61.3158,54.352896 C61.3158,54.8269412 61.70064,55.2109643 62.17728,55.2109643 C62.6532,55.2109643 63.04236,54.8269412 63.04236,54.352896 L63.04236,39.5481812 C63.04236,37.6362822 64.6026,36.0848289 66.5268,36.0848289 C68.45028,36.0848289 70.01016,37.6362822 70.01016,39.5481812 L70.01016,71.4878271 L77.08956,64.5250422 C78.45864,63.1839978 80.6658,63.1968582 82.01616,64.5596935 C83.36436,65.9153843 83.3514,68.108424 81.9816,69.4558985" id="Hand" fill="#333333" transform="translate(60.000000, 60.000000) scale(-1, 1) translate(-60.000000, -60.000000) "></path>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(0.000000, 325.000000)">
+                    <rect id="HR" fill="#E4E5E3" x="0" y="0" width="300" height="1"></rect>
+                    <rect id="VR" fill="#E4E5E3" x="150" y="0" width="1" height="40"></rect>
+                    <g id="toFrame-+-Save-+-toFrame-+-Save-+-toFrame-+-Save-+-toFrame-+-Save" transform="translate(38.000000, 11.000000)" font-family="Roboto-Bold, Roboto" font-size="16" font-weight="bold">
+                        <g id="toFrame-+-Save-+-toFrame-+-Save">
+                            <g id="toFrame-+-Save">
+                                <text id="Next" fill="#CC040B">
+                                    <tspan x="165.253906" y="15.5">Next</tspan>
+                                </text>
+                                <text id="Learn-More" fill="#4B4B4B">
+                                    <tspan x="0.890625" y="15.5">Learn More</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <text id="Welcome-to-One-Talk" font-family="NHaasGroteskTXStd-75Bd, Neue Haas Grotesk Text Std" font-size="36" font-weight="bold" line-spacing="36" fill="#000000">
+                    <tspan x="35.646" y="47.108">Welcome to </tspan>
+                    <tspan x="61.962" y="83.108">One Talk</tspan>
+                </text>
+            </g>
+            <g id="911-Notification" transform="translate(30.000000, 92.000000)">
+                <g id="Background">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-19)" xlink:href="#path-18"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-18"></use>
+                </g>
+                <g id="Group-9" transform="translate(137.000000, 299.500000)">
+                    <circle id="Oval-444" fill="#959595" cx="3" cy="3" r="3"></circle>
+                    <circle id="Oval-444" fill="#E4E5E3" cx="13" cy="3" r="3"></circle>
+                    <circle id="Oval-444" fill="#E4E5E3" cx="23" cy="3" r="3"></circle>
+                </g>
+                <g id="Group-8" transform="translate(48.000000, 105.000000)">
+                    <text id="When-you-place-a-cal" font-family="NHaasGroteskTXStd-55Rg, Neue Haas Grotesk Text Std" font-size="14" font-weight="normal" fill="#959595">
+                        <tspan x="3.776" y="131">When you place a call on </tspan>
+                        <tspan x="168.724" y="131" font-family="NHaasGroteskTXStd-75Bd, Neue Haas Grotesk Text Std" font-weight="bold">Hold</tspan>
+                        <tspan x="200.224" y="131"> </tspan>
+                        <tspan x="19.134" y="149">you can pick it up on your </tspan>
+                        <tspan x="25.063" y="166">other One Talk devices.</tspan>
+                    </text>
+                    <g id="iconCallActionHold-(Off)" transform="translate(42.000000, 0.000000)">
+                        <rect id="Frame" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="120" height="120"></rect>
+                        <path d="M81.9816,69.4558985 L67.12152,84.0716382 L67.09236,84.0416308 C65.346,85.7388342 62.96784,86.7923077 60.35028,86.7923077 L46.62312,86.7923077 C41.30952,86.7923077 36.96,82.4687437 36.96,77.1885157 L36.96,46.7142305 C36.96,44.804832 38.517,43.2533788 40.44048,43.2533788 C42.3636,43.2533788 43.92708,44.804832 43.92708,46.7142305 L43.92708,57.2364628 C43.92708,57.710508 44.31408,58.0948883 44.78964,58.0948883 C45.26448,58.0948883 45.65148,57.710508 45.65148,57.2364628 L45.65796,57.2364628 L45.65796,39.5481812 C45.65796,37.6362822 47.2146,36.0848289 49.13808,36.0848289 C51.0612,36.0848289 52.62144,37.6362822 52.62144,39.5481812 L52.62144,54.352896 C52.62144,54.8269412 53.00736,55.2109643 53.48616,55.2109643 C53.95992,55.2109643 54.34908,54.8269412 54.34908,54.352896 L54.34908,36.6664006 C54.34908,34.7548588 55.90896,33.2076923 57.83244,33.2076923 C59.75232,33.2076923 61.3158,34.7548588 61.3158,36.6664006 L61.3158,54.352896 C61.3158,54.8269412 61.70064,55.2109643 62.17728,55.2109643 C62.6532,55.2109643 63.04236,54.8269412 63.04236,54.352896 L63.04236,39.5481812 C63.04236,37.6362822 64.6026,36.0848289 66.5268,36.0848289 C68.45028,36.0848289 70.01016,37.6362822 70.01016,39.5481812 L70.01016,71.4878271 L77.08956,64.5250422 C78.45864,63.1839978 80.6658,63.1968582 82.01616,64.5596935 C83.36436,65.9153843 83.3514,68.108424 81.9816,69.4558985" id="Hand" fill="#333333" transform="translate(60.000000, 60.000000) scale(-1, 1) translate(-60.000000, -60.000000) "></path>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(0.000000, 325.000000)">
+                    <rect id="HR" fill="#E4E5E3" x="0" y="0" width="300" height="1"></rect>
+                    <rect id="VR" fill="#E4E5E3" x="150" y="0" width="1" height="40"></rect>
+                    <g id="toFrame-+-Save-+-toFrame-+-Save-+-toFrame-+-Save-+-toFrame-+-Save" transform="translate(38.000000, 11.000000)" font-family="Roboto-Bold, Roboto" font-size="16" font-weight="bold">
+                        <g id="toFrame-+-Save-+-toFrame-+-Save">
+                            <g id="toFrame-+-Save">
+                                <text id="Next" fill="#CC040B">
+                                    <tspan x="165.253906" y="15.5">Next</tspan>
+                                </text>
+                                <text id="Learn-More" fill="#4B4B4B">
+                                    <tspan x="0.890625" y="15.5">Learn More</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <text id="Welcome-to-One-Talk" font-family="NHaasGroteskTXStd-75Bd, Neue Haas Grotesk Text Std" font-size="36" font-weight="bold" line-spacing="36" fill="#000000">
+                    <tspan x="35.646" y="47.108">Welcome to </tspan>
+                    <tspan x="61.962" y="83.108">One Talk</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
