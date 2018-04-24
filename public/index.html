@@ -18,7 +18,11 @@
 <body>
   <div class="home-wrapper">
     <img src="img/jt_white.svg" id="signature" class="fade-h4">
-    <h4 class="fade-h4" id="title">Product Designer // Product Manager</h4>
+    <div class="fade-h4" id="title">
+        <span id="h4-vertical-align">Product Designer</span>
+        <span id="slashes">//</span>
+        <span id="h4-vertical-align">Product Manager</span>
+    </div>
   </div>
 <!--
   <div class="container">
@@ -26,7 +30,7 @@
   <h4 class="subhead text-center">Product Designer // Product Manager</h4>
   </div>
 -->
-  <div class="section-wrapper">
+  <div id="about" class="section-wrapper">
     <div class="container">
       <h1>I build human experiences.</h1>
       <p class="py-0 text-left writing">
@@ -54,8 +58,6 @@
     <div class="container">
       <h3 class="writing">I do more than my job requires.</h3>
       <p class="sub-list">
-      Chasing a down a problem or creating a solution
-
       Most companies want you to do what you're asked and no more. Going outside of your job description might threaten someone else's standing in the company. Yeah, I don't buy that.
       </p>
       <h3 class="writing">I didn't go to an Ivy League school.</h3>
@@ -96,7 +98,7 @@
       <div class="row fixed-bottom">
         <ul class="nav">
           <li class="nav-item">
-    	       <a class="nav-link hover-link active" href="#">about</a>
+    	       <a class="nav-link hover-link active" href="#about">about</a>
           </li>
           <li class="nav-item">
     	       <a class="nav-link">|</a>
@@ -115,7 +117,20 @@
     </div>
   </div>
 
-  <!-- Optional JavaScript -->
+  <!-- Firebase JavaScript -->
+  <script src="https://www.gstatic.com/firebasejs/4.13.0/firebase.js"></script>
+  <script>
+    // Initialize Firebase
+    var config = {
+      apiKey: "AIzaSyDVitHyMkISeQZYXPkcPHD2rW97Vqp-CFo",
+      authDomain: "portfolio-jtm.firebaseapp.com",
+      databaseURL: "https://portfolio-jtm.firebaseio.com",
+      projectId: "portfolio-jtm",
+      storageBucket: "portfolio-jtm.appspot.com",
+      messagingSenderId: "687288016624"
+    };
+    firebase.initializeApp(config);
+  </script>
   <!-- jQuery first, then Popper.js, then Bootstrap JS -->
   <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
   <script src="js/bootstrap.min.js" ></script>

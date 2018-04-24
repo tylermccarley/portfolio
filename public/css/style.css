@@ -1,24 +1,23 @@
 body, html {
     font-family: 'Open Sans', sans-serif;
-    overflow-x: hidden;
     height: 100%;
 }
 
 h1 {
   font-size: 40px;
   font-weight: 400;
-  color: #848484;
+  color: #303030;
 }
 
 h2 {
-  font-size: 36px;
-  color: #848484;
-  font-weight: 400;
+  font-size: 34px;
+  color: #303030;
+  font-weight: 100;
 }
 
 h3 {
   font-size: 24px;
-  color: #848484;
+  color: #303030;
   font-weight: 400;
 }
 
@@ -38,9 +37,26 @@ p {
   font-size: 17px;
   font-weight: 100;
   line-height: 1.8;
-  color: #848484;
+  color: #303030;
+}
+
+.writing {
   margin-top: 45px;
   margin-bottom: 0px;
+}
+
+.sub-list {
+  padding: 30px 0;
+}
+
+blockquote {
+  font-size: 20px;
+  font-weight: 200;
+  font-style: italic;
+  float: middle;
+  border-left: 3px solid rgba(0,0,0,.84);
+  padding-left: 20px;
+  margin: 50px 50px 50px -23px;
 }
 
 object {
@@ -93,10 +109,20 @@ object {
   padding: 0 15%;
   max-width: 50em;
 }
-
-.hero {
-  width: 100%;
+.hero{
+  width: 800px;
   height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.container-hero {
+  margin: 0 auto;
+  max-width: 100%;
+}
+.embed-responsive {
+  width: 50em;
+  margin: 0 auto;
 }
 .center {
     display: block;
@@ -136,31 +162,33 @@ object {
   max-height: 60px;
 }
 
-
-.img-fluid {
-  padding: 15%;
-}
-
-.img-center {
-  vertical-align: middle;
-}
-
 .nav {
     margin: 0 auto;
-    bottom: 0; /* Position the navbar at the top of the page */
+    bottom: 0;
     padding: 10px;
 }
 
 .fixed-top {
-  position: relative;
-  background-color: white;
-}
-.fixed-bottom{
   background: inherit;
   background-color: rgba(255,255,255,0.9);
-  position: absolute;
-  bottom: 0;
+  position: fixed;
+  top: 0px;
   -webkit-backdrop-filter: blur(10px);
+}
+
+.fixed-bottom{
+  background: inherit;
+  /* background-color: rgba(255,255,255,0.9); */
+  /* background-color: #191919; */
+  background-color: rgba(25, 25, 25, 0.9);
+  position: fixed;
+  bottom: 0px;
+  -webkit-backdrop-filter: blur(10px);
+}
+
+.blur{
+  background: inherit;
+  backdrop-filter: blur(2px);
 }
 
 .navigation {
@@ -170,7 +198,8 @@ object {
 .nav-link {
   float: left;
   display: inline-block;
-  color: #4a4a4a;
+  /* color: #4a4a4a; */
+  color: #bbb;
   text-align: center;
   text-decoration: none;
   font-size: 16px;
@@ -178,13 +207,32 @@ object {
   padding: 10px 10px;
 }
 
-.blur{
-  background: inherit;
-  backdrop-filter: blur(2px);
+.nav-item {
+  color: #bbb;
 }
+
+.active {
+  color: #58E2FF;
+  font-weight: 400;
+}
+
+.active a:hover {
+    font-weight: 600;
+    color: #58E2FF;
+    text-decoration: none;
+}
+.active a::after {
+    display: block;
+    content: attr(title);
+    font-weight: bold;
+    height: 0;
+    overflow: hidden;
+    visibility: hidden;
+}
+
 a.hover-link:hover {
   font-weight: 600;
-  color: #5292AD;
+  color: #58E2FF;
   text-decoration: none;
   padding: 10px 8px;
 }
@@ -198,89 +246,42 @@ a.hover-link::after {
     visibility: hidden;
 }
 
-
-.active {
-  color: #5292AD;
-  font-weight: 400;
+.circle {
+    box-shadow: 3px 3px 20px 2px #ddd;
+    background: #303030;
+    width: 140px;
+    height: 140px;
+    margin: 30px auto;
+    border-radius: 50%;
 }
 
-.active a:hover {
-    font-weight: 600;
-    color: #5292AD;
-    text-decoration: none;
-}
-.active a::after {
-    display: block;
-    content: attr(title);
-    font-weight: bold;
-    height: 0;
-    overflow: hidden;
-    visibility: hidden;
+.circle:hover {
+  box-shadow: 6px 6px 20px 2px #d2d2d2;
+  background: #58E2FF;
 }
 
-
-.bottom-nav {
-    background-color: none;
-    overflow: hidden;
-    float: left;
-    display: inline-block;
-    color: #4a4a4a;
-    text-align: center;
-    padding: 16px 16px;
+.top-header {
+  position-fixed;
+  top: 0;
+  left: 0;
 }
 
-/* Style the links inside the navigation bar */
-
-.bottom-nav a {
-    float: left;
-    display: inline-block;
-    color: #4a4a4a;
-    text-align: center;
-    text-decoration: none;
-    font-size: 16px;
-    font-weight: 100;
+.header-container {
+  height: 100%;
+  width: auto;
 }
 
-.bottom-nav a:hover {
-    font-weight: 600;
-    color: #5292AD;
-}
-.bottom-nav a::after {
-    display: block;
-    content: attr(title);
-    font-weight: bold;
-    height: 0;
-    overflow: hidden;
-    visibility: hidden;
-}
-
-/* Hide the link that should open and close the topnav on small screens */
-.icon {
-    display: none;
-}
-.divider {
-  position: relative;
-  float: left;
-  display: inline-block;
-  color: #4a4a4a;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 16px;
-  font-weight: 100;
-}
-
-.header {
-  margin-top: 60px;
-  margin-bottom: 60px;
+.header-wrapper {
+  padding-top: 100px;
 }
 
 .section-wrapper {
-  padding: 100px 0;
+  padding: 180px 0;
 }
 
 .big-wrapper {
-  margin: 0 45px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .video-wrapper {
@@ -288,7 +289,7 @@ a.hover-link::after {
   margin: 0 45px;
 }
 
-.header-wrapper {
+.home-wrapper {
   align-items: center;
   display: flex;
   flex-direction: column;
@@ -297,42 +298,95 @@ a.hover-link::after {
   width: 100vw;
   background-color: #191919;
 }
+
 @-webkit-keyframes fadeIn {
   from {
-    opacity: 1;
+    opacity: 0;
     background-color: white;
   }
 
   to {
-    opacity: 0;
-    background-color: white;
+    opacity: 1;
+    background-color: #191919;
   }
 }
 
 @keyframes fade-in {
   from {
-    opacity: 1;
-    background-color: #191919;
-  }
-
-  to {
     opacity: 0;
     background-color: white;
   }
-}
 
+  to {
+    opacity: 1;
+    background-color: #191919;
+  }
+}1.5
 .fade-in {
     width: 100%;
     height: 100%;
-    background-color: white;
+    background-color: #191919;
     animation-name: fadeIn;
+    animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade-h4 {
+  from {
+    opacity: 0;
+    color: white;
+  }
+
+  to {
+    opacity: 1;
+    color: #848484;
+  }
+}
+
+@keyframes fade-h4 {
+  from {
+    opacity: 0;
+    color: white;
+  }
+
+  to {
+    opacity: 1;
+    color: #848484;
+  }
+}
+
+.fade-h4 {
+    animation-name: fade-h4;
+    animation-delay: 0s;
     animation-duration: 4s;
 }
 
-.header-container {
-  height: 100%;
-  width: auto;
+@-webkit-keyframes fade-sig {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
 }
+
+@keyframes fade-sig {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+.fade-sig {
+    animation-name: fade-sig;
+    animation-delay: 0s;
+    animation-duration: 4s;
+}
+
+
 .card-wrapper {
   margin: 10px 15px 10px 0;
   position: relative;
@@ -357,6 +411,9 @@ a.hover-link::after {
   box-shadow: 6px 6px 20px 2px #d2d2d2;
 }
 
+#about {
+}
+
 #logo {
   margin: auto;
 }
@@ -377,24 +434,37 @@ a.hover-link::after {
   fill: #fff;
 }
 
+#list {
+  margin: 20px 0;
+}
+
+#coded-by-me {
+  position: fixed;
+  bottom: 0;
+  text-align: center;
+  padding: 100px 0;
+}
+
 #title {
   font-weight: 100;
-  margin-top: 110px;
+  color: #848484;
+  margin-top: 100px;
 }
 
-.circle {
-    box-shadow: 3px 3px 20px 2px #ddd;
-    background: #4a4a4a;
-    width: 140px;
-    height: 140px;
-    margin: 30px auto;
-    border-radius: 50%;
+#h4-vertical-align {
+  vertical-align: middle;
+  margin:0 5px;
+  font-weight: 100;
+  font-size: 20px;
+  color: #848484;
 }
 
-.circle:hover {
-  box-shadow: 6px 6px 20px 2px #d2d2d2;
-  background: #5292AD;
+#slashes {
+  font-size:36px;
+  color: #58E2FF;
+  vertical-align: middle;
 }
+
 .center {
   margin: auto;
 }
@@ -406,6 +476,10 @@ a.hover-link::after {
   padding: 20%;
 }
 
+.break400 {
+  height: 400px;
+  width: auto;
+}
 .break100 {
   height: 100px;
   width: auto;
@@ -445,15 +519,15 @@ a.hover-link::after {
   }
 }
 
-@media screen and (max-width: 600px) {
-  #margin {
-    margin: auto;
-  }
+@media screen and (max-width: 835px) {
   h1 {
     font-size: 34px;
   }
+  h2 {
+    font-size: 20px;
+  }
   h3 {
-    font-size: 18px;
+    font-size: 22px;
   }
   h4 {
     font-size: 18px;
@@ -461,19 +535,86 @@ a.hover-link::after {
   p {
     font-size: 17px;
   }
-  #signature {
-    width: 80%;
-  }
+
   .bg {
     height: 300px;
   }
   .container {
     padding: 0 10%;
   }
+  .section-wrapper {
+    padding: 100px 0;
+  }
   .center {
       padding: 6% 0;
   }
+  .embed-responsive {
+    width: 100%;
+    height: auto;
+  }
+  .hero {
+    width: 100%;
+    height: auto;
+  }
+  .break90 {
+    height: 45px;
+    width: auto;
+  }
+  .break80 {
+    height: 40px;
+    width: auto;
+  }
+  .nav-link {
+    padding: 10px 10px;
+  }
+  a.hover-link:hover {
+    font-weight: 600;
+    color: #58E2FF;
+    text-decoration: none;
+    padding: 10px 8px;
+  }
+  #signature {
+    width: 300px;
+    fill: #fff;
+  }
+  #margin {
+    margin: auto;
+  }
+
+  #h4-vertical-align {
+    margin:0 4px;
+    font-weight: 100;
+    font-size: 18px;
+  }
+  #slashes {
+    font-size:32px;
+  }
 }
+
+@media screen and (max-width: 400px) {
+  #signature {
+    width: 260px;
+    fill: #fff;
+  }
+
+  #h4-vertical-align {
+    margin:0 4px;
+    font-weight: 100;
+    font-size: 16px;
+  }
+
+  #slashes {
+    font-size:29px;
+  }
+}
+
+@media only screen
+    and (device-width : 375px)
+    and (device-height : 812px)
+    and (-webkit-device-pixel-ratio : 3) {
+    .nav-link {
+      padding: 10px 10px 30px 10px;
+      } }
 
 /* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
 @media screen and (max-width: 600px) {

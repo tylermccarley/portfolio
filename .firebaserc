@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "portfolio": "portfolio-jtm",
+    "default": "portfolio-jtm"
+  }
+}
