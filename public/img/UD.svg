@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="87px" viewBox="0 0 30 87" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="0%" x2="6.16002653%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#C9A6FF" offset="0%"></stop>
+            <stop stop-color="#986DFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-221.000000, -196.000000)">
+            <g id="Logo" transform="translate(221.000000, 196.000000)">
+                <g id="ud-logo-copy">
+                    <polygon id="Rectangle" fill="url(#linearGradient-1)" points="0 53.4782609 29.9980092 26.7391304 29.9980092 59.3489406 0 86.0869565"></polygon>
+                    <polygon id="Rectangle-Copy" fill-opacity="0.9" fill="#986DFF" transform="translate(14.999005, 29.673913) scale(-1, 1) translate(-14.999005, -29.673913) " points="0 26.7391304 29.9980092 5.68434189e-14 29.9980092 32.6098102 0 59.3478261"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="30px" viewBox="0 0 18 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>back_arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-181.000000, -196.000000)" fill="#191919">
+            <path d="M189.349242,217.349242 L206.349242,217.349242 L206.349242,221.349242 L185.349242,221.349242 L185.349242,217.349242 L185.349242,200.349242 L189.349242,200.349242 L189.349242,217.349242 Z" id="back_arrow" transform="translate(195.849242, 210.849242) rotate(45.000000) translate(-195.849242, -210.849242) "></path>
+        </g>
+    </g>
+</svg>

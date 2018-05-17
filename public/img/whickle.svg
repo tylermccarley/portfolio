@@ -1,24 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 118 96" style="enable-background:new 0 0 118 96;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:url(#Combined-Shape_1_);}
-</style>
-<title>Combined Shape</title>
-<desc>Created with Sketch.</desc>
-<g id="Page-1">
-	<g id="Splash" transform="translate(-148.000000, -292.000000)">
-		<g id="Group-2" transform="translate(132.000000, 292.000000)">
-			
-				<linearGradient id="Combined-Shape_1_" gradientUnits="userSpaceOnUse" x1="-1393.5507" y1="731.668" x2="-1393.2069" y2="732.0117" gradientTransform="matrix(117.1513 0 0 -96 163308.7344 70303)">
-				<stop  offset="0" style="stop-color:#BD78FF"/>
-				<stop  offset="1" style="stop-color:#6670FF"/>
-			</linearGradient>
-			<path id="Combined-Shape" class="st0" d="M74.6,33.6c0,0-0.2,0-0.7,0.6c-1,1.1-7.9,20.9-7.9,20.9s-3.8-16.9-4.8-21.6
-				s-6.7,0.2-6.7,0.2s5,30.8,11.6,30.8c3.4,0,8.5-15,8.6-15.3c0.1,0.2,5.2,15.3,8.6,15.3c6.6,0,11.6-30.8,11.6-30.8S89,28.9,88,33.5
-				c-1,4.6-4.8,21.6-4.8,21.6s-7-19.8-7.9-20.9C74.8,33.6,74.6,33.6,74.6,33.6L74.6,33.6z"/>
-		</g>
-	</g>
-</g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="67px" height="55px" viewBox="0 0 67 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="3.74939946e-31%" x2="1.11022302e-14%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#6F4EFF" offset="0%"></stop>
+            <stop stop-color="#AD7AFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="current" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo" transform="translate(-172.000000, -131.000000)" fill="url(#linearGradient-1)">
+            <path d="M205.229167,134.773327 L205.229167,134.428608 C205.229167,134.428608 205.319047,134.424407 205.515625,134.551193 C205.712203,134.424407 205.802083,134.428608 205.802083,134.428608 L205.802083,134.773327 C205.955273,134.909423 206.141415,135.09922 206.363144,135.363898 C207.962769,137.273372 219.641196,170.257575 219.641196,170.257575 C219.641196,170.257575 226.053359,142.024563 227.751416,134.320347 C229.449472,126.616132 239.03125,134.732771 239.03125,134.732771 C239.03125,134.732771 230.70916,186 219.641196,186 C214.551901,186 207.064085,165.702095 205.515625,161.345671 C203.967165,165.702095 196.479349,186 191.390054,186 C180.32209,186 172,134.732771 172,134.732771 C172,134.732771 181.581778,126.616132 183.279834,134.320347 C184.977891,142.024563 191.390054,170.257575 191.390054,170.257575 C191.390054,170.257575 203.068481,137.273372 204.668106,135.363898 C204.889835,135.09922 205.075977,134.909423 205.229167,134.773327 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
 </svg>
