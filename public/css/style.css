@@ -1,6 +1,7 @@
 body, html {
     font-family: 'Open Sans', sans-serif;
     height: 100%;
+    background-color: #f6f6f6;
 }
 
 h1 {
@@ -444,19 +445,24 @@ a.hover-link::after {
 }
 
 .card {
-  box-shadow: 3px 3px 20px 2px #ddd;
-  border-radius: 0px;
+  box-shadow: -10px 10px 2px 0px #ddd;
+  border-radius: 12px;
   height: 170px;
   width: 300px;
   max-width: 100%;
   margin: 30px auto 0;
   float: center;
   text-align: center;
+  border: none;
+  transition: 300ms ease-in-out;
 }
 
 .card:hover {
-  box-shadow: 6px 6px 20px 2px #d2d2d2;
+  transform: scale(1.05);
+  box-shadow: -12px 12px 5px -1px #ddd;
+  transition: 300ms ease-in-out;
 }
+
 #section {
   background-color: #ddd;
 }
@@ -538,6 +544,10 @@ svg:hover path {
   display: block;
 }
 
+#push-right{
+  transform:translate(15px);
+}
+
 .center {
   margin: auto;
 }
@@ -545,16 +555,25 @@ svg:hover path {
 .middle {
   vertical-align: middle;
 }
+
 .signature-padding {
   padding: 20%;
 }
+
 .align-middle {
   padding: auto 0;
 }
+
 .break400 {
   height: 400px;
   width: auto;
 }
+
+.break250 {
+  height: 250px;
+  width: auto;
+}
+
 .break120 {
   height: 120px;
   width: auto;
